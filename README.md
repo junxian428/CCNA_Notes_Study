@@ -8,4 +8,9 @@ c) Firewall
 d) Server
 e) Client
 
+2. Free CCNA | Interfaces and Cables | Day 2 | CCNA 200-301 Complete Course https://youtu.be/ieTH5lVhNaY?si=trQ-AYknQmntyfyA
+
+3. 
+
+
 https://humorous-collar-be6.notion.site/CCNA-b8795db53c6745e8ada511b3ffaf7d3d
