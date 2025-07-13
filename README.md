@@ -38,6 +38,8 @@ FIBER OPTIC CABLE
 
 10GBase-ER, 10Gbps, Single-mode, 30km
 
+<img width="1847" height="915" alt="image" src="https://github.com/user-attachments/assets/e12388c8-07fe-4dac-b940-dbb130687ab9" />
+
 6. 
 
 
