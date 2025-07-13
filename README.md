@@ -10,6 +10,13 @@ e) Client
 
 2. Free CCNA | Interfaces and Cables | Day 2 | CCNA 200-301 Complete Course https://youtu.be/ieTH5lVhNaY?si=trQ-AYknQmntyfyA
 
+Ethernet, Fast Ethernet, Gigabit Ethernet and 10 Gig Ethernet.
+
+UTP Cables. Unshielded Twisted Pair. (EMI), 8 pins. 
+
+10BASE-T, 100 BASE-T = 2 pairs (4 wires) and 1000BASE-T , 10GBASE-T = 4 pairs (8 wires)
+
+
 3. 
 
 
