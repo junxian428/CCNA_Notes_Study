@@ -16,8 +16,21 @@ UTP Cables. Unshielded Twisted Pair. (EMI), 8 pins.
 
 10BASE-T, 100 BASE-T = 2 pairs (4 wires) and 1000BASE-T , 10GBASE-T = 4 pairs (8 wires)
 
+SFP Transceiver (Small Form-Factor Pluggable) -Fiber Optic Cable 
 
-3. 
+1, Fiberglass core (Light Transmit)
+
+2. Cladding that reflect light
+
+3. Protective buffer
+   
+4. Outer jacket of the cable
+
+A. Single mode B. Multimode
+   
+
+
+6. 
 
 
 https://humorous-collar-be6.notion.site/CCNA-b8795db53c6745e8ada511b3ffaf7d3d
