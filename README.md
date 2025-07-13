@@ -28,7 +28,15 @@ SFP Transceiver (Small Form-Factor Pluggable) -Fiber Optic Cable
 
 A. Single mode B. Multimode
    
+FIBER OPTIC CABLE
 
+1000bASE-LX , 1Gbpsm single-mode or multimode or, 500m (MM) / 5km (SM)
+
+10GBase-SR , 10Gbps, Multimode, 400m
+
+10GBase-LR , 10Gbps, Single-mode, 10km
+
+10GBase-ER, 10Gbps, Single-mode, 30km
 
 6. 
 
