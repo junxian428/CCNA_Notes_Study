@@ -43,4 +43,18 @@ FIBER OPTIC CABLE
 
 3. Free CCNA | OSI Model & TCP/IP Suite | Day 3 | CCNA 200-301 Complete Course. https://youtu.be/t-ai8JzhHuY?si=hvKFDQxKQnZ1dcXb
 
-4. 
+Networking models categorize and provide a structure for networking protocols and standards.
+
+Protocols: A set of rules defining how networking devices and software should work 
+
+OSI model 'Open Systems Interconnection':  Application, Prsentation, Session, Transport, Network, Data Link and Physical. created by ISO
+
+Application: Data    , Transport: Segment,  Network Layer(Include IP address): Packet and Layer 2( Layer 4, Layer 3, Layer 2 headers and one trailer called Layer 2 trailer) called Frame, Layer 1 called bits  (ALL THESE ARE PDU Protocol Data Units)
+
+TCI/IP Suite: Application, Trasnport, Internet and LInk 
+
+Process-to-process communication: Application Layer
+
+Host-host communication: Transport Layer
+
+4.Free CCNA | Intro to the CLI | Day 4 | CCNA 200-301 Complete Course. https://youtu.be/IYbtai7Nu2g?si=s8d71DDml-4fA3MF 
