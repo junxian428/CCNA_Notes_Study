@@ -40,7 +40,7 @@ FIBER OPTIC CABLE
 
 <img width="1847" height="915" alt="image" src="https://github.com/user-attachments/assets/e12388c8-07fe-4dac-b940-dbb130687ab9" />
 
-6. 
 
+3. Free CCNA | OSI Model & TCP/IP Suite | Day 3 | CCNA 200-301 Complete Course. https://youtu.be/t-ai8JzhHuY?si=hvKFDQxKQnZ1dcXb
 
-https://humorous-collar-be6.notion.site/CCNA-b8795db53c6745e8ada511b3ffaf7d3d
+4. 
