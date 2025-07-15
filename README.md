@@ -58,3 +58,6 @@ Process-to-process communication: Application Layer
 Host-host communication: Transport Layer
 
 4.Free CCNA | Intro to the CLI | Day 4 | CCNA 200-301 Complete Course. https://youtu.be/IYbtai7Nu2g?si=s8d71DDml-4fA3MF 
+
+5. Free CCNA | Ethernet LAN Switching (Part 1) | Day 5 | CCNA 200-301 Complete Course. https://www.youtube.com/watch?v=u2n762WG0Vo
+
